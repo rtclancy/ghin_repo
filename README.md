@@ -1,7 +1,7 @@
 TCL code for calculating golf handicap per WHS
 
 1) clone repo
-2) add you course data to tcl/courses/courses.tcl
+2) add your course data to tcl/courses/courses.tcl
 
 e.g.
 set courses(Alling\ Middle)         {69.0 127 72}
