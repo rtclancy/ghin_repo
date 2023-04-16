@@ -1,0 +1,52 @@
+********************
+Golfer ID: Williard (aka Captain Sandbagger)
+********************
+WHS Handicap Index: 3.5
+********************
+Top 1 Differentials
+********************
+5.5 2023/04/15 Shennecosset         75 
+********************
+Course Handicaps
+********************
+Alling Middle		1	69.0	127	72
+Beaver River Blue	2	67.8	120	70
+Brookside		2	68.1	124	70
+CT National Black	6	73.3	131	71
+CT National Blue	3	70.5	123	71
+CT National White	1	68.7	121	71
+Exeter White		1	69.7	122	72
+Fairview Farms		1	69.5	121	72
+Farm Neck		1	69.3	129	72
+Fox Hopyard		4	70.7	124	71
+Hunter Blue		4	71.0	132	71
+Hunter Gold		1	67.8	123	71
+Hunter White		2	69.2	128	71
+Lyman Jones White	2	70.3	128	72
+Madison Black		3	69.2	127	70
+Madison Black/White	0	66.3	122	70
+Madison Gold/Black	4	70.1	129	70
+Madison White		-1	65.1	118	70
+Meadow Brook		2	70.6	123	72
+Oak Lane		2	70.2	124	72
+Portland Blue		3	70.3	126	71
+Portland Gold		3	69.7	124	71
+Portland White		1	68.6	121	71
+Quarry Ridge Blue	1	69.5	119	72
+Richmond CC Blue	5	72.1	121	71
+Richmond CC White	3	69.9	117	71
+Shennecosset		2	69.1	121	71
+Southington CC White	0	67.6	122	71
+Stanwich CC Blue	5	72.9	138	72
+Stanwich CC Combo	4	71.6	134	72
+Stanwich CC Gold	7	74.7	141	72
+Stanwich CC White	3	70.8	132	72
+Tamarack CC White	4	70.7	129	71
+TopStone		1	69.0	119	72
+Vermont National Blue	1	69.1	127	72
+********************
+Total Scores Available: 2
+********************
+  1 5.5 2023/04/15 Shennecosset         75 
+  2 7.4 2023/04/08 Shennecosset         77 
+historical ghin
