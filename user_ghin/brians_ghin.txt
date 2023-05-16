@@ -1,51 +1,52 @@
 ********************
 Golfer ID: Buzzsaw Brian Bee
 ********************
-WHS Handicap Index: 35.6
+WHS Handicap Index: 35.3
 ********************
 Top 1 Differentials
 ********************
-37.6 2023/05/06 Portland Gold        111 
+37.3 2023/05/13 Shennecosset         109 
 ********************
 Course Handicaps
 ********************
 Alling Middle		37	69.0	127	72
-Beaver River Blue	36	67.8	120	70
+Beaver River Blue	35	67.8	120	70
 Brookside		37	68.1	124	70
-CT National Black	44	73.3	131	71
+CT National Black	43	73.3	131	71
 CT National Blue	38	70.5	123	71
-CT National White	36	68.7	121	71
+CT National White	35	68.7	121	71
 Exeter White		36	69.7	122	72
-Fairview Farms		36	69.5	121	72
+Fairview Farms		35	69.5	121	72
 Farm Neck		38	69.3	129	72
-Fox Hopyard		39	70.7	124	71
-Hunter Blue		42	71.0	132	71
-Hunter Gold		36	67.8	123	71
-Hunter White		39	69.2	128	71
-Lyman Jones White	39	70.3	128	72
+Fox Hopyard		38	70.7	124	71
+Hunter Blue		41	71.0	132	71
+Hunter Gold		35	67.8	123	71
+Hunter White		38	69.2	128	71
+Lyman Jones White	38	70.3	128	72
 Madison Black		39	69.2	127	70
-Madison Black/White	35	66.3	122	70
-Madison Gold/Black	41	70.1	129	70
+Madison Black/White	34	66.3	122	70
+Madison Gold/Black	40	70.1	129	70
 Madison White		32	65.1	118	70
 Meadow Brook		37	70.6	123	72
 Oak Lane		37	70.2	124	72
 Portland Blue		39	70.3	126	71
-Portland Gold		38	69.7	124	71
-Portland White		36	68.6	121	71
+Portland Gold		37	69.7	124	71
+Portland White		35	68.6	121	71
 Quarry Ridge Blue	35	69.5	119	72
 Richmond CC Blue	39	72.1	121	71
-Richmond CC White	36	69.9	117	71
+Richmond CC White	35	69.9	117	71
 Shennecosset		36	69.1	121	71
 Southington CC White	35	67.6	122	71
 Stanwich CC Blue	44	72.9	138	72
-Stanwich CC Combo	42	71.6	134	72
+Stanwich CC Combo	41	71.6	134	72
 Stanwich CC Gold	47	74.7	141	72
 Stanwich CC White	40	70.8	132	72
 Tamarack CC White	40	70.7	129	71
 TopStone		34	69.0	119	72
 Vermont National Blue	37	69.1	127	72
 ********************
-Total Scores Available: 1
+Total Scores Available: 2
 ********************
-  1 37.6 2023/05/06 Portland Gold        111 
+  1 37.3 2023/05/13 Shennecosset         109 
+  2 37.6 2023/05/06 Portland Gold        111 
 historical ghin
