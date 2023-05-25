@@ -6,6 +6,8 @@ WHS Handicap Index: 1.6
 Top 1 Differentials
 ********************
 3.6 2023/05/09 Shennecosset         73 
+5.5 2023/04/15 Shennecosset         75  (not used)
+7.4 2023/04/08 Shennecosset         77  (not used)
 ********************
 Course Handicaps
 ********************
