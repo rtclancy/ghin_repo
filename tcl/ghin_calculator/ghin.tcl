@@ -31,6 +31,8 @@ proc calc_ghin {last_20_list} {
 	if {$item_count < $::scores_to_use} {
 	    my_puts $aitem 2;
 	    set ghin [expr $ghin + [lindex $aitem 0]];
+	} else {
+	    my_puts "$aitem (not used)" 2;
 	}
 	incr item_count;
     }

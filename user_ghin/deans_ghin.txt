@@ -6,6 +6,9 @@ WHS Handicap Index: 26.9
 Top 1 Differentials
 ********************
 27.9 2023/04/01 Shennecosset               99 
+29.8 2023/04/16 Lyman Jones White         104  (not used)
+30.7 2023/04/08 Shennecosset              102  (not used)
+40.1 2023/04/15 Shennecosset              112  (not used)
 ********************
 Course Handicaps
 ********************
