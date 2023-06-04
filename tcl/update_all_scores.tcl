@@ -4,6 +4,7 @@ set user_list {
     deans
     brians
     wards
+    mikeb
 }
 foreach user $user_list {
     puts "Updating $user";

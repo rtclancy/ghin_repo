@@ -18,10 +18,10 @@ Top 8 Differentials
 24.2 2023/04/22 Quarry Ridge Blue     95  (not used)
 24.2 2022/10/29 Quarry Ridge Blue     95  (not used)
 24.2 2022/10/08 Shennecosset          95  (not used)
-24.6 2022/07/03 CT National White     95  (not used)
 27.0 2022/10/15 Shennecosset          98  (not used)
 27.9 2022/09/10 Shennecosset          99  (not used)
 28.0 2022/08/27 Lyman Jones White    102  (not used)
+28.9 2023/06/03 Shennecosset         100  (not used)
 28.9 2022/10/22 Shennecosset         100  (not used)
 30.3 2022/07/30 Portland Gold        103  (not used)
 32.2 2023/05/06 Portland Gold        105  (not used)
@@ -64,86 +64,87 @@ Tamarack CC White	22	70.7	129	71
 TopStone		18	69.0	119	72
 Vermont National Blue	19	69.1	127	72
 ********************
-Total Scores Available: 75
+Total Scores Available: 76
 ********************
-  1 23.3 2023/05/13 Shennecosset          94 
-  2 32.2 2023/05/06 Portland Gold        105 
-  3 24.2 2023/04/22 Quarry Ridge Blue     95 
-  4 18.6 2023/04/15 Shennecosset          89 
-  5 23.3 2023/04/08 Shennecosset          94 
-  6 24.2 2022/10/29 Quarry Ridge Blue     95 
-  7 28.9 2022/10/22 Shennecosset         100 
-  8 27.0 2022/10/15 Shennecosset          98 
-  9 24.2 2022/10/08 Shennecosset          95 
- 10 19.5 2022/10/02 Quarry Ridge Blue     90 
- 11 18.6 2022/09/15 Vermont National Blue 90 
- 12 27.9 2022/09/10 Shennecosset          99 
- 13 22.3 2022/09/03 Shennecosset          93 
- 14 28.0 2022/08/27 Lyman Jones White    102 
- 15 24.0 2022/08/20 Portland Gold         96 
- 16 17.7 2022/08/14 Shennecosset          88 
- 17 20.5 2022/08/06 Shennecosset          91 
- 18 30.3 2022/07/30 Portland Gold        103 
- 19 16.7 2022/07/24 Shennecosset          87 
- 20 24.6 2022/07/03 CT National White     95 
+  1 28.9 2023/06/03 Shennecosset         100 
+  2 23.3 2023/05/13 Shennecosset          94 
+  3 32.2 2023/05/06 Portland Gold        105 
+  4 24.2 2023/04/22 Quarry Ridge Blue     95 
+  5 18.6 2023/04/15 Shennecosset          89 
+  6 23.3 2023/04/08 Shennecosset          94 
+  7 24.2 2022/10/29 Quarry Ridge Blue     95 
+  8 28.9 2022/10/22 Shennecosset         100 
+  9 27.0 2022/10/15 Shennecosset          98 
+ 10 24.2 2022/10/08 Shennecosset          95 
+ 11 19.5 2022/10/02 Quarry Ridge Blue     90 
+ 12 18.6 2022/09/15 Vermont National Blue 90 
+ 13 27.9 2022/09/10 Shennecosset          99 
+ 14 22.3 2022/09/03 Shennecosset          93 
+ 15 28.0 2022/08/27 Lyman Jones White    102 
+ 16 24.0 2022/08/20 Portland Gold         96 
+ 17 17.7 2022/08/14 Shennecosset          88 
+ 18 20.5 2022/08/06 Shennecosset          91 
+ 19 30.3 2022/07/30 Portland Gold        103 
+ 20 16.7 2022/07/24 Shennecosset          87 
 ********************
 Aged Out
 ********************
- 21 17.5 2022/06/20 Hunter White          89 
- 22 18.1 2022/06/18 Beaver River Blue     87 
- 23 23.3 2022/05/21 Shennecosset          94 
- 24 33.8 2022/05/14 Alling Middle        107 
- 25 24.2 2022/04/30 Shennecosset          95 
- 26 28.0 2022/04/17 Lyman Jones White    102 
- 27 23.3 2022/04/10 Shennecosset          94 
- 28 30.7 2022/04/02 Shennecosset         102 
- 29 20.5 2021/11/21 Shennecosset          91 
- 30 28.0 2021/11/14 Quarry Ridge Blue     99 
- 31 22.1 2021/11/11 Portland Gold         94 
- 32 17.7 2021/10/31 Shennecosset          88 
- 33 28.1 2021/10/23 Hunter White         101 
- 34 23.0 2021/10/14 Tamarack CC White     97 
- 35 25.1 2021/10/03 Shennecosset          96 
- 36 28.1 2021/09/04 Richmond CC White     99 
- 37 24.2 2021/08/29 Shennecosset          95 
- 38 24.9 2021/08/08 Portland Gold         97 
- 39 29.0 2021/08/01 Quarry Ridge Blue    100 
- 40 23.0 2021/07/30 Madison Black         95 
- 41 27.2 2021/07/29 Southington CC White  97 
- 42 18.8 2021/07/17 Exeter White          90 
- 43 28.4 2021/07/05 Portland White        99 
- 44 25.1 2021/06/26 Shennecosset          96 
- 45 28.3 2021/06/12 Hunter Blue          104 
- 46 14.8 2021/06/06 Shennecosset          85 
- 47 30.7 2021/05/28 Shennecosset         102 
- 48 25.1 2021/05/22 Shennecosset          96 
- 49 23.3 2021/05/16 Shennecosset          94 
- 50 36.1 2021/04/24 TopStone             107 
- 51 28.5 2021/04/10 Alling Middle        101 
- 52 26.3 2020/11/07 Hunter White          99 
- 53 25.1 2020/10/31 Shennecosset          96 
- 54 27.2 2020/10/18 Hunter White         100 
- 55 34.0 2020/10/10 Portland Gold        107 
- 56 23.8 2020/09/12 Fairview Farms        95 
- 57 22.3 2020/08/30 Shennecosset          93 
- 58 38.2 2020/08/16 Shennecosset         110 
- 59 26.1 2020/08/09 Shennecosset          97 
- 60 28.9 2020/07/18 Shennecosset         100 
- 61 25.1 2020/07/03 Shennecosset          96 
- 62 18.6 2020/06/13 Shennecosset          89 
- 63 24.2 2019/10/13 Shennecosset          95 
- 64 25.1 2019/08/05 Shennecosset          96 
- 65 24.5 2019/08/04 Hunter White          97 
- 66 22.8 2019/06/29 Hunter White          95 
- 67 24.0 2019/06/02 Portland Gold         96 
- 68 28.1 2019/04/27 Oak Lane             101 
- 69 31.7 2018/09/01 Shennecosset         103 
- 70 27.1 2018/07/29 Lyman Jones White    101 
- 71 28.5 2018/07/05 Fox Hopyard          102 
- 72 30.8 2018/06/21 Oak Lane             104 
- 73 28.8 2018/06/20 Meadow Brook         102 
- 74 29.5 2018/06/19 Farm Neck            103 
- 75 20.9 2018/06/18 Brookside             91 
+ 21 24.6 2022/07/03 CT National White     95 
+ 22 17.5 2022/06/20 Hunter White          89 
+ 23 18.1 2022/06/18 Beaver River Blue     87 
+ 24 23.3 2022/05/21 Shennecosset          94 
+ 25 33.8 2022/05/14 Alling Middle        107 
+ 26 24.2 2022/04/30 Shennecosset          95 
+ 27 28.0 2022/04/17 Lyman Jones White    102 
+ 28 23.3 2022/04/10 Shennecosset          94 
+ 29 30.7 2022/04/02 Shennecosset         102 
+ 30 20.5 2021/11/21 Shennecosset          91 
+ 31 28.0 2021/11/14 Quarry Ridge Blue     99 
+ 32 22.1 2021/11/11 Portland Gold         94 
+ 33 17.7 2021/10/31 Shennecosset          88 
+ 34 28.1 2021/10/23 Hunter White         101 
+ 35 23.0 2021/10/14 Tamarack CC White     97 
+ 36 25.1 2021/10/03 Shennecosset          96 
+ 37 28.1 2021/09/04 Richmond CC White     99 
+ 38 24.2 2021/08/29 Shennecosset          95 
+ 39 24.9 2021/08/08 Portland Gold         97 
+ 40 29.0 2021/08/01 Quarry Ridge Blue    100 
+ 41 23.0 2021/07/30 Madison Black         95 
+ 42 27.2 2021/07/29 Southington CC White  97 
+ 43 18.8 2021/07/17 Exeter White          90 
+ 44 28.4 2021/07/05 Portland White        99 
+ 45 25.1 2021/06/26 Shennecosset          96 
+ 46 28.3 2021/06/12 Hunter Blue          104 
+ 47 14.8 2021/06/06 Shennecosset          85 
+ 48 30.7 2021/05/28 Shennecosset         102 
+ 49 25.1 2021/05/22 Shennecosset          96 
+ 50 23.3 2021/05/16 Shennecosset          94 
+ 51 36.1 2021/04/24 TopStone             107 
+ 52 28.5 2021/04/10 Alling Middle        101 
+ 53 26.3 2020/11/07 Hunter White          99 
+ 54 25.1 2020/10/31 Shennecosset          96 
+ 55 27.2 2020/10/18 Hunter White         100 
+ 56 34.0 2020/10/10 Portland Gold        107 
+ 57 23.8 2020/09/12 Fairview Farms        95 
+ 58 22.3 2020/08/30 Shennecosset          93 
+ 59 38.2 2020/08/16 Shennecosset         110 
+ 60 26.1 2020/08/09 Shennecosset          97 
+ 61 28.9 2020/07/18 Shennecosset         100 
+ 62 25.1 2020/07/03 Shennecosset          96 
+ 63 18.6 2020/06/13 Shennecosset          89 
+ 64 24.2 2019/10/13 Shennecosset          95 
+ 65 25.1 2019/08/05 Shennecosset          96 
+ 66 24.5 2019/08/04 Hunter White          97 
+ 67 22.8 2019/06/29 Hunter White          95 
+ 68 24.0 2019/06/02 Portland Gold         96 
+ 69 28.1 2019/04/27 Oak Lane             101 
+ 70 31.7 2018/09/01 Shennecosset         103 
+ 71 27.1 2018/07/29 Lyman Jones White    101 
+ 72 28.5 2018/07/05 Fox Hopyard          102 
+ 73 30.8 2018/06/21 Oak Lane             104 
+ 74 28.8 2018/06/20 Meadow Brook         102 
+ 75 29.5 2018/06/19 Farm Neck            103 
+ 76 20.9 2018/06/18 Brookside             91 
 historical ghin
 2020/09/12 22.6
 2020/10/10 23.2
@@ -201,3 +202,4 @@ historical ghin
 2023/04/22 18.4
 2023/05/06 18.9
 2023/05/13 19.7
+2023/06/03 19.7
