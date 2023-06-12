@@ -22,6 +22,7 @@ set courses(Madison\ Black/White)   {66.3 122 70}
 set courses(Madison\ White)         {65.1 118 70}
 set courses(Meadow\ Brook)          {70.6 123 72}
 set courses(Oak\ Lane)              {70.2 124 72}
+set courses(Orange\ Hills)          {70.2 124 71}
 set courses(Portland\ Blue)         {70.3 126 71}
 set courses(Portland\ Gold)         {69.7 124 71}
 set courses(Portland\ White)        {68.6 121 71}
