@@ -1,6 +1,7 @@
 set golfer_id "Gentleman Belden";
 
 set scores {
+    {2023/06/17 "Shennecosset"          85 }
     {2023/06/11 "Shennecosset"          86 }
     {2023/05/26 "Orange Hills"          92 }
 
