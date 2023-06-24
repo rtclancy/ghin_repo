@@ -1,15 +1,16 @@
 ********************
-Golfer ID: Gentleman Belden
+Golfer ID: Bunker Master Belden
 ********************
-WHS Handicap Index: 15.1
+WHS Handicap Index: 15.3
 ********************
-Top 3 Differentials
+Top 4 Differentials
 ********************
 14.8 2023/06/17 Shennecosset          85 
 14.8 2023/05/10 Shennecosset          85 
 15.8 2023/06/11 Shennecosset          86 
-15.8 2023/05/09 Shennecosset          86  (not used)
+15.8 2023/05/09 Shennecosset          86 
 15.8 2023/05/08 Shennecosset          86  (not used)
+16.7 2023/06/24 Portland Gold         88  (not used)
 17.7 2023/05/12 Shennecosset          88  (not used)
 19.9 2023/05/26 Orange Hills          92  (not used)
 20.5 2023/05/13 Shennecosset          91  (not used)
@@ -31,11 +32,11 @@ Farm Neck		15	69.3	129	72
 Fox Hopyard		16	70.7	124	71
 Hunter Blue		18	71.0	132	71
 Hunter Gold		13	67.8	123	71
-Hunter White		15	69.2	128	71
-Lyman Jones White	15	70.3	128	72
+Hunter White		16	69.2	128	71
+Lyman Jones White	16	70.3	128	72
 Madison Black		16	69.2	127	70
 Madison Black/White	13	66.3	122	70
-Madison Gold/Black	17	70.1	129	70
+Madison Gold/Black	18	70.1	129	70
 Madison White		11	65.1	118	70
 Meadow Brook		15	70.6	123	72
 Oak Lane		15	70.2	124	72
@@ -43,30 +44,31 @@ Orange Hills		16	70.2	124	71
 Portland Blue		16	70.3	126	71
 Portland Gold		15	69.7	124	71
 Portland White		14	68.6	121	71
-Quarry Ridge Blue	13	69.5	119	72
+Quarry Ridge Blue	14	69.5	119	72
 Richmond CC Blue	17	72.1	121	71
 Richmond CC White	15	69.9	117	71
 Shennecosset		14	69.1	121	71
 Southington CC White	13	67.6	122	71
-Stanwich CC Blue	19	72.9	138	72
+Stanwich CC Blue	20	72.9	138	72
 Stanwich CC Combo	18	71.6	134	72
 Stanwich CC Gold	22	74.7	141	72
-Stanwich CC White	16	70.8	132	72
+Stanwich CC White	17	70.8	132	72
 Tamarack CC White	17	70.7	129	71
 TopStone		13	69.0	119	72
 Vermont National Blue	14	69.1	127	72
 ********************
-Total Scores Available: 11
+Total Scores Available: 12
 ********************
-  1 14.8 2023/06/17 Shennecosset          85 
-  2 15.8 2023/06/11 Shennecosset          86 
-  3 19.9 2023/05/26 Orange Hills          92 
-  4 20.5 2023/05/13 Shennecosset          91 
-  5 17.7 2023/05/12 Shennecosset          88 
-  6 21.4 2023/05/11 Shennecosset          92 
-  7 14.8 2023/05/10 Shennecosset          85 
-  8 15.8 2023/05/09 Shennecosset          86 
-  9 15.8 2023/05/08 Shennecosset          86 
- 10 27.0 2023/05/07 Shennecosset          98 
- 11 20.5 2023/05/06 Shennecosset          91 
+  1 16.7 2023/06/24 Portland Gold         88 
+  2 14.8 2023/06/17 Shennecosset          85 
+  3 15.8 2023/06/11 Shennecosset          86 
+  4 19.9 2023/05/26 Orange Hills          92 
+  5 20.5 2023/05/13 Shennecosset          91 
+  6 17.7 2023/05/12 Shennecosset          88 
+  7 21.4 2023/05/11 Shennecosset          92 
+  8 14.8 2023/05/10 Shennecosset          85 
+  9 15.8 2023/05/09 Shennecosset          86 
+ 10 15.8 2023/05/08 Shennecosset          86 
+ 11 27.0 2023/05/07 Shennecosset          98 
+ 12 20.5 2023/05/06 Shennecosset          91 
 historical ghin
