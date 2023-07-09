@@ -1,6 +1,7 @@
 set golfer_id "Sandbagger Bob";
 
 set scores {
+    {2023/07/08 "Quarry Ridge Blue"     98 }
     {2023/07/02 "Hunter White"         100 }
     {2023/06/24 "Portland Gold"        101 }
     {2023/06/17 "Shennecosset"          92 }

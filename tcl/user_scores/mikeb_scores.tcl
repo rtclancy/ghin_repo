@@ -1,6 +1,8 @@
 set golfer_id "Bunker Master Belden";
 
 set scores {
+    {2023/07/08 "Quarry Ridge Blue"     84 }
+
     {2023/06/24 "Portland Gold"         88 }
     {2023/06/17 "Shennecosset"          85 }
     {2023/06/11 "Shennecosset"          86 }

@@ -1,14 +1,15 @@
 ********************
 Golfer ID: Bunker Master Belden
 ********************
-WHS Handicap Index: 15.3
+WHS Handicap Index: 14.8
 ********************
 Top 4 Differentials
 ********************
+13.8 2023/07/08 Quarry Ridge Blue     84 
 14.8 2023/06/17 Shennecosset          85 
 14.8 2023/05/10 Shennecosset          85 
 15.8 2023/06/11 Shennecosset          86 
-15.8 2023/05/09 Shennecosset          86 
+15.8 2023/05/09 Shennecosset          86  (not used)
 15.8 2023/05/08 Shennecosset          86  (not used)
 16.7 2023/06/24 Portland Gold         88  (not used)
 17.7 2023/05/12 Shennecosset          88  (not used)
@@ -22,53 +23,54 @@ Course Handicaps
 ********************
 Alling Middle		14	69.0	127	72
 Beaver River Blue	14	67.8	120	70
-Brookside		15	68.1	124	70
-CT National Black	20	73.3	131	71
+Brookside		14	68.1	124	70
+CT National Black	19	73.3	131	71
 CT National Blue	16	70.5	123	71
 CT National White	14	68.7	121	71
 Exeter White		14	69.7	122	72
-Fairview Farms		14	69.5	121	72
-Farm Neck		15	69.3	129	72
+Fairview Farms		13	69.5	121	72
+Farm Neck		14	69.3	129	72
 Fox Hopyard		16	70.7	124	71
-Hunter Blue		18	71.0	132	71
+Hunter Blue		17	71.0	132	71
 Hunter Gold		13	67.8	123	71
-Hunter White		16	69.2	128	71
-Lyman Jones White	16	70.3	128	72
+Hunter White		15	69.2	128	71
+Lyman Jones White	15	70.3	128	72
 Madison Black		16	69.2	127	70
-Madison Black/White	13	66.3	122	70
-Madison Gold/Black	18	70.1	129	70
+Madison Black/White	12	66.3	122	70
+Madison Gold/Black	17	70.1	129	70
 Madison White		11	65.1	118	70
 Meadow Brook		15	70.6	123	72
-Oak Lane		15	70.2	124	72
-Orange Hills		16	70.2	124	71
+Oak Lane		14	70.2	124	72
+Orange Hills		15	70.2	124	71
 Portland Blue		16	70.3	126	71
 Portland Gold		15	69.7	124	71
-Portland White		14	68.6	121	71
-Quarry Ridge Blue	14	69.5	119	72
+Portland White		13	68.6	121	71
+Quarry Ridge Blue	13	69.5	119	72
 Richmond CC Blue	17	72.1	121	71
-Richmond CC White	15	69.9	117	71
+Richmond CC White	14	69.9	117	71
 Shennecosset		14	69.1	121	71
 Southington CC White	13	67.6	122	71
-Stanwich CC Blue	20	72.9	138	72
-Stanwich CC Combo	18	71.6	134	72
-Stanwich CC Gold	22	74.7	141	72
-Stanwich CC White	17	70.8	132	72
+Stanwich CC Blue	19	72.9	138	72
+Stanwich CC Combo	17	71.6	134	72
+Stanwich CC Gold	21	74.7	141	72
+Stanwich CC White	16	70.8	132	72
 Tamarack CC White	17	70.7	129	71
 TopStone		13	69.0	119	72
 Vermont National Blue	14	69.1	127	72
 ********************
-Total Scores Available: 12
+Total Scores Available: 13
 ********************
-  1 16.7 2023/06/24 Portland Gold         88 
-  2 14.8 2023/06/17 Shennecosset          85 
-  3 15.8 2023/06/11 Shennecosset          86 
-  4 19.9 2023/05/26 Orange Hills          92 
-  5 20.5 2023/05/13 Shennecosset          91 
-  6 17.7 2023/05/12 Shennecosset          88 
-  7 21.4 2023/05/11 Shennecosset          92 
-  8 14.8 2023/05/10 Shennecosset          85 
-  9 15.8 2023/05/09 Shennecosset          86 
- 10 15.8 2023/05/08 Shennecosset          86 
- 11 27.0 2023/05/07 Shennecosset          98 
- 12 20.5 2023/05/06 Shennecosset          91 
+  1 13.8 2023/07/08 Quarry Ridge Blue     84 
+  2 16.7 2023/06/24 Portland Gold         88 
+  3 14.8 2023/06/17 Shennecosset          85 
+  4 15.8 2023/06/11 Shennecosset          86 
+  5 19.9 2023/05/26 Orange Hills          92 
+  6 20.5 2023/05/13 Shennecosset          91 
+  7 17.7 2023/05/12 Shennecosset          88 
+  8 21.4 2023/05/11 Shennecosset          92 
+  9 14.8 2023/05/10 Shennecosset          85 
+ 10 15.8 2023/05/09 Shennecosset          86 
+ 11 15.8 2023/05/08 Shennecosset          86 
+ 12 27.0 2023/05/07 Shennecosset          98 
+ 13 20.5 2023/05/06 Shennecosset          91 
 historical ghin
