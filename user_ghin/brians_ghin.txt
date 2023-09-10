@@ -23,6 +23,8 @@ Fox Hopyard		38	70.7	124	71
 Hunter Blue		41	71.0	132	71
 Hunter Gold		35	67.8	123	71
 Hunter White		38	69.2	128	71
+Keney Park Blue		37	68.6	124	70
+Keney Park White	34	66.5	121	70
 Lyman Jones White	38	70.3	128	72
 Madison Black		39	69.2	127	70
 Madison Black/White	34	66.3	122	70

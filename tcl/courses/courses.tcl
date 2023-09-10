@@ -15,6 +15,8 @@ set courses(Fox\ Hopyard)           {70.7 124 71}
 set courses(Hunter\ Gold)           {67.8 123 71}
 set courses(Hunter\ White)          {69.2 128 71}
 set courses(Hunter\ Blue)           {71.0 132 71}
+set courses(Keney\ Park\ White)     {66.5 121 70}
+set courses(Keney\ Park\ Blue)      {68.6 124 70}
 set courses(Lyman\ Jones\ White)    {70.3 128 72}
 set courses(Madison\ Black)         {69.2 127 70}
 set courses(Madison\ Gold/Black)    {70.1 129 70}
